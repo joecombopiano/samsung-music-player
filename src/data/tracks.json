@@ -1,0 +1,82 @@
+[
+  {
+    "id": "track_001",
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "duration_ms": 200040,
+    "genre": "synth-pop"
+  },
+  {
+    "id": "track_002",
+    "title": "Levitating",
+    "artist": "Dua Lipa",
+    "album": "Future Nostalgia",
+    "duration_ms": 203064,
+    "genre": "disco-pop"
+  },
+  {
+    "id": "track_003",
+    "title": "Save Your Tears",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "duration_ms": 215627,
+    "genre": "synth-pop"
+  },
+  {
+    "id": "track_004",
+    "title": "Peaches",
+    "artist": "Justin Bieber",
+    "album": "Justice",
+    "duration_ms": 198082,
+    "genre": "r&b"
+  },
+  {
+    "id": "track_005",
+    "title": "good 4 u",
+    "artist": "Olivia Rodrigo",
+    "album": "SOUR",
+    "duration_ms": 178147,
+    "genre": "pop-punk"
+  },
+  {
+    "id": "track_006",
+    "title": "Montero",
+    "artist": "Lil Nas X",
+    "album": "Montero",
+    "duration_ms": 137876,
+    "genre": "pop-rap"
+  },
+  {
+    "id": "track_007",
+    "title": "Kiss Me More",
+    "artist": "Doja Cat",
+    "album": "Planet Her",
+    "duration_ms": 208867,
+    "genre": "pop"
+  },
+  {
+    "id": "track_008",
+    "title": "Stay",
+    "artist": "The Kid LAROI",
+    "album": "F*ck Love 3",
+    "duration_ms": 141806,
+    "genre": "pop"
+  },
+  {
+    "id": "track_009",
+    "title": "Heat Waves",
+    "artist": "Glass Animals",
+    "album": "Dreamland",
+    "duration_ms": 238805,
+    "genre": "indie-pop"
+  },
+  {
+    "id": "track_010",
+    "title": "drivers license",
+    "artist": "Olivia Rodrigo",
+    "album": "SOUR",
+    "duration_ms": 242014,
+    "genre": "indie-pop"
+  }
+]

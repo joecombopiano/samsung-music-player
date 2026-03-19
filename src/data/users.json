@@ -1,0 +1,43 @@
+[
+  {
+    "id": "user_001",
+    "username": "melodyfan42",
+    "listenHistory": ["track_001", "track_003", "track_009", "track_010"],
+    "playlists": [
+      {
+        "id": "pl_001",
+        "name": "Chill Vibes",
+        "tracks": ["track_001", "track_003", "track_009"]
+      }
+    ]
+  },
+  {
+    "id": "user_002",
+    "username": "beatdrop99",
+    "listenHistory": ["track_002", "track_004", "track_006", "track_007", "track_008"],
+    "playlists": [
+      {
+        "id": "pl_002",
+        "name": "Party Mix",
+        "tracks": ["track_002", "track_006", "track_007"]
+      },
+      {
+        "id": "pl_003",
+        "name": "Workout",
+        "tracks": ["track_004", "track_008"]
+      }
+    ]
+  },
+  {
+    "id": "user_003",
+    "username": "indiekid",
+    "listenHistory": ["track_005", "track_009", "track_010"],
+    "playlists": [
+      {
+        "id": "pl_004",
+        "name": "Indie Favorites",
+        "tracks": ["track_005", "track_009", "track_010"]
+      }
+    ]
+  }
+]

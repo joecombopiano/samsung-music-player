@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "android-music-player"
+  description: "Spotify's Android music player service with legacy recommendation engine"
+  annotations:
+    github.com/project-slug: external-spotify-portal-demo/android-music-player
+    backstage.io/techdocs-ref: dir:.
+    github.com/org: external-spotify-portal-demo
+    github.com/repo: android-music-player
+spec:
+  type: service
+  lifecycle: production
+  owner: "group:default/kubecon-squad"
+  consumesApis:
+    [
+      spc-sandbox.recommendations.music-catalog,
+      spc-sandbox.recommendations.user-listen-history,
+    ]

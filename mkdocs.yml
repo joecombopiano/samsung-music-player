@@ -1,0 +1,6 @@
+site_name: "android-music-player"
+plugins:
+  - techdocs-core
+nav:
+  - Introduction: index.md
+  - Migration Guide: migration.md
