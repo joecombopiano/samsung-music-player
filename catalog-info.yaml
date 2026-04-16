@@ -4,11 +4,13 @@ metadata:
   name: "samsung-music-player"
   description: "Spotify's Samsung music player service with legacy recommendation engine"
   annotations:
-    github.com/project-slug: external-spotify-portal-demo/android-music-player
+    github.com/project-slug: external-spotify-portal-demo/samsung-music-player
     backstage.io/techdocs-ref: dir:.
     github.com/org: external-spotify-portal-demo
-    github.com/repo: android-music-player
+    github.com/repo: samsung-music-player
 spec:
   type: service
   lifecycle: production
   owner: "user:default/joecombopiano"
+  dependsOn: 
+    - "component:legacy-recommendation-engine"
