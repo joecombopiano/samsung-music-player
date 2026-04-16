@@ -1,4 +1,4 @@
-# Android Music Player
+# Samsung Music Player
 
 Spotify's Android music player service — handles playback, playlists, and track recommendations using the legacy recommendation engine.
 
